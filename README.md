@@ -73,6 +73,16 @@ These four notebooks share an identical pipeline structure. Each one loads a dif
 
 ### Dataset Overview
 
+Due to size limitations, the dataset is not included in this repository.
+
+Download it from:
+
+`https://drive.google.com/drive/folders/1bbxozHSH-jctWmhB3uSYVcMsmkGD3oyC?usp=drive_link`
+
+After downloading, place it in the following path:
+
+`kaggle_data/`
+
 | Notebook | File | Target Variable | Target Type | Sample Size |
 |---|---|---|---|---|
 | `dataset1.ipynb` | `dataset1.csv` | `Hypertension` | Engineered from BP thresholds (JNC-7) | 7,000 (balanced) |
